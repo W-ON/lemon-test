@@ -59,7 +59,7 @@ A documentação completa da API está disponível no Swagger. Você pode acess�
         "consumptionClass": "comercial",
         "rateModality": "convencional",
         "consumptionHistory": [3878, 9760, 5976]
-      }
+      }'
       
 *Resposta Esperada:*
 
